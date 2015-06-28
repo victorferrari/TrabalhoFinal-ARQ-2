@@ -27,5 +27,8 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 
 <img src="http://i.imgur.com/utifTtB.png></img>
 
+<hr>
+<h4>Gráficos -- Testes de Desempenho</h4>
+
 
 
