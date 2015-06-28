@@ -16,7 +16,9 @@ fonte(http://www.vision.ime.usp.br/~pmiranda/mac110_1s14/EPs/ep02/ep02.pdf).
 <hr>
 <h4>Versão SIMD (MMX -- SSE)</h4>
 
-O algoritmo utilizado como base foi disponibilizado pelo professor.
+O algoritmo utilizado como base foi disponibilizado pelo professor.Foram acrescentado 2 trechos de código Inline/Assembly, especicamente, no If e Else do segundo laço. Com uso de instruções SIMD (MMX -- SSE) foi possível realizar o cáculo para 8 pixels por vez, enquanto que no sequncial o cálculo é feito para 1 pixel por vez. Com isso a melhora de desempenho é muito grande, em média o ganho foi de 72%.
+
+<img src="http://i.imgur.com/HCyni73.png"></img>
 
 
 
