@@ -32,7 +32,7 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 
 <img src="http://i.imgur.com/bxTvIS6.png"></img>
 
-<img src="http://i.imgur.com/V6l0cme.png"></img>
+<img src="http://i.imgur.com/tykZF15.png"></img>
 
 <img src="http://i.imgur.com/bxTvIS6.png"></img>
 
