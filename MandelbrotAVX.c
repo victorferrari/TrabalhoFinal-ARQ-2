@@ -20,16 +20,15 @@ to see the file use external application ( graphic viewer)
 
 int main()
 {
-		clock_t start, end1;
-		double cpu_time_used;
-		int num;
+	clock_t start, end1;
+	double cpu_time_used;
         /* screen ( integer) coordinate */
         int iX,iY;
         const int iXmax = 16384; 
         const int iYmax = 16384;
         /* world ( double) coordinate = parameter plane*/
         float Cx;
-	    float Cy;
+	float Cy;
         const float CxMin=-2.5;
         const float CxMax=1.5;
         const float CyMin=-2.0;
@@ -49,7 +48,7 @@ int main()
         /*  */
         int Iteration;
         const int IterationMax=256;
-	    static unsigned char u[3];
+	static unsigned char u[3];
         /* bail-out value , radius of circle ;  */
         const float EscapeRadius=2;
         float ER2=EscapeRadius*EscapeRadius;
@@ -59,7 +58,7 @@ int main()
         fprintf(fp,"P6\n %d\n %d\n %d\n",iXmax,iYmax,MaxColorComponentValue);
         /* compute and write image data bytes to the file*/
 
-	    start = clock();
+	start = clock();
         for(iY=0;iY<iYmax;iY++)
         {
              Cy=CyMin + iY*PixelHeight;
@@ -67,7 +66,7 @@ int main()
 			 Cy=0.0; /* Main antenna */
              for(iX=0;iX<iXmax;iX+=8)
              {         
-				Cx=CxMin + iX*PixelWidth;
+		Cx=CxMin + iX*PixelWidth;
                 /* initial value of orbit = critical point Z= 0 */
                 Zx=0.0;
                 Zy=0.0;
@@ -120,6 +119,5 @@ int main()
         fclose(fp);
 		cpu_time_used = ((double)(end1 - start)) / CLOCKS_PER_SEC;
 		printf("time = %f seconds\n", cpu_time_used);
-		scanf("%d", &num);
         return 0;
 }
