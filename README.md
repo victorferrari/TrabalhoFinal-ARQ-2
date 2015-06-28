@@ -20,5 +20,12 @@ O algoritmo utilizado como base foi disponibilizado pelo professor.Foram acresce
 
 <img src="http://i.imgur.com/t027N6f.png"></img>
 
+<hr>
+<h4>Versão SIMD (AVX)</h4>
+
+Não pode ser feita muita mudança que pudesse representar uma ganho expressivo. O modelo do processador utilizado é que de fato possibilitou ganho de desempenho. Os testes realizados com esse processador utilizando SSE e AVX praticamente obtiveram o mesmo resultado. O ganho nesse caso, em média foi de 85%.
+
+<img src="http://i.imgur.com/utifTtB.png></img>
+
 
 
