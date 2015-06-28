@@ -34,7 +34,7 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 
 <img src="http://i.imgur.com/tykZF15.png"></img>
 
-<img src="http://i.imgur.com/bxTvIS6.png"></img>
+<img src="http://i.imgur.com/Ahi52ho.png"></img>
 
 OBS: processador utilizado nos teste do sequencial e AVX: Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
 OBS: processador utilizado nos teste do MMX/SSE: 
