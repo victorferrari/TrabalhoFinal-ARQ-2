@@ -11,10 +11,12 @@ infinitamente, gerando uma figura fractal.
 
 fonte(http://www.vision.ime.usp.br/~pmiranda/mac110_1s14/EPs/ep02/ep02.pdf).
 
-<img src="mandelbrot.ppm"></img>
+<img src="http://imgur.com/HCyni73"></img>
 
 <hr>
 <h4>Versão SIMD (MMX -- SSE)</h4>
+
+O algoritmo utilizado como base foi disponibilizado pelo professor.
 
 
 
