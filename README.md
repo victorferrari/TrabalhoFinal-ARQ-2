@@ -30,8 +30,7 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 <hr>
 <h4>Gráficos -- Testes de Desempenho</h4>
 
-<h5>Sequencial</h5>
-<img src="http://i.imgur.com/Y4LCwK2.png"></img>
+<img src="http://i.imgur.com/bxTvIS6.png"></img>
 
 <h5>SIMD (MMX/SSE)</h5>
 
