@@ -31,7 +31,7 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 <h4>Gráficos -- Testes de Desempenho</h4>
 
 <h5>Sequencial</h5>
-<img src="http://www.onlinecharttool.com/graph/image/blank?antifreeze=1435521290"></img>
+<img src="http://i.imgur.com/Y4LCwK2.png"></img>
 
 <h5>SIMD (MMX/SSE)</h5>
 
