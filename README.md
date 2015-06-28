@@ -30,5 +30,15 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 <hr>
 <h4>Gráficos -- Testes de Desempenho</h4>
 
+<h5>Sequencial</h5>
+
+<h5>SIMD (MMX/SSE)</h5>
+
+<h5>SIMD (AVX)</h5>
+
+OBS: processador utilizado nos teste do sequencial e AVX: Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
+
+
+
 
 
