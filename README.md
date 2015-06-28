@@ -43,6 +43,13 @@ OBS: processador utilizado nos teste do MMX/SSE:
 <hr>
 <h4>Comparação de Desempenho</h4>
 
+<img src="http://i.imgur.com/MmASQdD.png"></img>
+
+<hr>
+<h4>Créditos</h4>
+
+Projeto desenvolvido por Jorge Carvalho (RA: 551678) e Víctor Ferrari (RA:552437) na disciplina de Laboratório de Arquitetura e Organização de Computadores 2, ministrada pelo professor Ricardo Menotti.
+
 
 
 
