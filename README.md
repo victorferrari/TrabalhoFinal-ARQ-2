@@ -32,9 +32,9 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 
 <img src="http://i.imgur.com/bxTvIS6.png"></img>
 
-<h5>SIMD (MMX/SSE)</h5>
+<img src="http://i.imgur.com/V6l0cme.png"></img>
 
-<h5>SIMD (AVX)</h5>
+<img src="http://i.imgur.com/bxTvIS6.png"></img>
 
 OBS: processador utilizado nos teste do sequencial e AVX: Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
 OBS: processador utilizado nos teste do MMX/SSE: 
