@@ -8,3 +8,13 @@ complexo. Existe uma infinidade de quase-círculos que tangenciam o cardióide e
 raio tendendo assintoticamente a zero. Cada um desses círculos tem seu próprio conjunto infinito de
 pequenos círculos cujos raios também tendem assintoticamente a zero. Esse processo se repete
 infinitamente, gerando uma figura fractal.
+
+fonte(http://www.vision.ime.usp.br/~pmiranda/mac110_1s14/EPs/ep02/ep02.pdf).
+
+<img src="mandelbrot.ppm"></img>
+
+<hr>
+<h4>Versão SIMD (MMX -- SSE)</h4>
+
+
+
