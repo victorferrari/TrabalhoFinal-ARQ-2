@@ -38,7 +38,7 @@ Não pode ser feita muita mudança que pudesse representar uma ganho expressivo.
 
 OBS: processador utilizado nos testes do Sequencial e AVX: Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
 <br>
-OBS: processador utilizado nos testes do MMX/SSE: 
+OBS: processador utilizado nos testes do MMX/SSE: Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
 
 <hr>
 <h4>Comparação de Desempenho</h4>
