@@ -25,18 +25,20 @@ O algoritmo utilizado como base foi disponibilizado pelo professor.Foram acresce
 
 Não pode ser feita muita mudança que pudesse representar uma ganho expressivo. O modelo do processador utilizado é que de fato possibilitou ganho de desempenho. Os testes realizados com esse processador utilizando SSE e AVX praticamente obtiveram o mesmo resultado. O ganho nesse caso, em média foi de 85%.
 
-<img src="http://i.imgur.com/utifTtB.png></img>
+<img src="http://i.imgur.com/utifTtB.png"></img>
 
 <hr>
 <h4>Gráficos -- Testes de Desempenho</h4>
 
 <h5>Sequencial</h5>
+<img src="http://www.onlinecharttool.com/graph/image/blank?antifreeze=1435521290"></img>
 
 <h5>SIMD (MMX/SSE)</h5>
 
 <h5>SIMD (AVX)</h5>
 
 OBS: processador utilizado nos teste do sequencial e AVX: Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
+OBS: processador utilizado nos teste do MMX/SSE: 
 
 
 
