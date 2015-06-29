@@ -22,7 +22,6 @@ int main()
 {
 		clock_t start, end1;
 		double cpu_time_used;
-		int num;
         /* screen ( integer) coordinate */
         int iX,iY;
         const int iXmax = 16384; 
@@ -121,6 +120,5 @@ int main()
         fclose(fp);
 		cpu_time_used = ((double)(end1 - start)) / CLOCKS_PER_SEC;
 		printf("time = %f seconds\n", cpu_time_used);
-		scanf("%d", &num);
         return 0;
 }
