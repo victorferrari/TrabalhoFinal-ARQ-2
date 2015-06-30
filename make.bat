@@ -9,3 +9,4 @@ for /f %%f in ('dir /b in\') do mandelbrot_simd_mmx in\%%f out\SIMD_%%f
 mandelbrot_sequencial
 mandelbrot_simd_avx
 mandelbrot_simd_mmx
+pause
